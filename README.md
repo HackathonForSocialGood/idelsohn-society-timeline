@@ -1,4 +1,4 @@
-idelsohn-society-timeline
+Github pages
 =========================
 
-Hackathon for Social Good Austin 2014 submission
+Should be available at HackathonForSocialGood.github.io/idelsohn-society-timeline
