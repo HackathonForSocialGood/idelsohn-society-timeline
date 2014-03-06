@@ -1,0 +1,20 @@
+#page {
+	width: 965px; 
+	margin-bottom: .6em;
+}
+
+#page h2.title {
+	margin-top: 1.2em;
+}
+
+body#sub #content-wrap {
+	background: white;
+	padding-bottom: 1em;
+}
+
+
+.footer-text {
+	margin: 1em .5em;
+	font-size: 90%;
+	color: #999;
+}
