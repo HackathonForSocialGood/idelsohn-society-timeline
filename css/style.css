@@ -12,9 +12,17 @@ body#sub #content-wrap {
 	padding-bottom: 1em;
 }
 
-
 .footer-text {
-	margin: 1em .5em;
+	margin: 1em 2em;
 	font-size: 90%;
 	color: #999;
+}
+
+.share-icon {
+	width: 24px;
+	heigh: 24px;
+	margin-right:10px;
+}
+.share-icons {
+	float:right;
 }
